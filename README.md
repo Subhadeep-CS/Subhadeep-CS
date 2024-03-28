@@ -20,6 +20,6 @@ I'm Subhadeep Das, a passionate computer science post-graduate with a Master of 
 
 ## Contact Me
 
-If you'd like to connect or discuss potential collaborations, feel free to reach out to me on [www.linkedin.com/in/subhadeep-das-238a09300] ( My LinkedIn Profile URL).
+If you'd like to connect or discuss potential collaborations, feel free to reach out to me on [www.linkedin.com/in/subhadeep-das-238a09300]( My LinkedIn Profile URL).
 
 Let's build something amazing together! 🚀
