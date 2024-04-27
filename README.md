@@ -7,7 +7,7 @@ I'm Subhadeep Das, a passionate computer science post-graduate with a Master of 
 ## Skills
 
 - Programming Languages: JavaScript, Java, C++,C
-- Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js,Tailwind-CSS,Bootstrap-5
+- Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js,Tailwind-CSS,Bootstrap-5,React-Bootstrap
 - Backend Development: Node.js, Express.js, MongoDB,MySQL
 - Tools & Technologies: Git, Visual Studio Code, npm, RESTful APIs
 
