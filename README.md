@@ -1,5 +1,5 @@
 # Welcome to Subhadeep Das's Portfolio
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux,express,mongodb,firebase,git,github)](https://skillicons.dev)
 ## About Me
 
 I'm Subhadeep Das, a passionate computer science post-graduate with a Master of Science degree in Computer Science, which I completed in 2022. I have a keen interest in web development and am currently focused on learning the MERN stack (MongoDB, Express.js, React.js, Node.js) to broaden my skill set and pursue a career in full-stack development.
