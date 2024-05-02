@@ -14,7 +14,9 @@ Currently working as a trainee software developer at Brainium Information Techol
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,react,redux,jest,express,mongodb,firebase,git,github,theme=light&perline=8)](https://skillicons.dev)
 
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep-cs&size_weight=0.5&count_weight=0.5)
+
 ## Learning Goals
 
 - Mastering the MERN stack by building real-world projects.
