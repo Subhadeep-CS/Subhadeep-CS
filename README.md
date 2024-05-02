@@ -16,6 +16,7 @@ Currently working as a trainee software developer at Brainium Information Techol
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep-cs&size_weight=0.5&count_weight=0.5)
+##
 
 ## Learning Goals
 
