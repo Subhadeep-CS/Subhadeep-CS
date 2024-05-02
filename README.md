@@ -15,7 +15,8 @@ Currently working as a trainee software developer at Brainium Information Techol
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,react,redux,jest,express,mongodb,firebase,git,github,theme=light&perline=8)](https://skillicons.dev)
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep-cs&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep-cs&size_weight=0.5&count_weight=0.5) 
+![Subhadeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhadeep-cs&show_icons=true&bg_color=00000000)
 ##
 
 ## Learning Goals
