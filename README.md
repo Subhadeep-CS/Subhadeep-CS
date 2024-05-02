@@ -11,7 +11,8 @@ Currently working as a trainee software developer at Brainium Information Techol
 - Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js,Tailwind-CSS,Bootstrap-5,React-Bootstrap
 - Backend Development: Node.js, Express.js, MongoDB,MySQL
 - Tools & Technologies: Git, Visual Studio Code, npm, RESTful APIs
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,react,redux,jest,express,mongodb,firebase,git,github,figma&theme=light&perline=5)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,react,redux,jest,express,mongodb,firebase,git,github,theme=light&perline=5)](https://skillicons.dev)
 
 ## Learning Goals
 
