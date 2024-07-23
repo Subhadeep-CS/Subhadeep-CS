@@ -3,7 +3,7 @@
 
 I'm Subhadeep Das, a passionate computer science post-graduate with a Master of Science degree in Computer Science, which I completed in 2022. I have a keen interest in web development and am currently focused on learning the MERN stack (MongoDB, Express.js, React.js, Node.js) to broaden my skill set and pursue a career in full-stack development.
 
-Currently working as a trainee software developer at Brainium Information Techologies Private Limited.
+Currently working as a Software Engineer(frontend) at Brainium Information Techologies Private Limited. Working on React.js.
 
 ## Skills
 
